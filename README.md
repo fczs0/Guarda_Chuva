@@ -3,6 +3,8 @@
 *28/10/2023*
 
 ## Objetivo
+![Logo (1)](https://github.com/Grupo-Arthemis/Sprint_3_Entrega_2_ECCS/assets/84590776/53732870-e1d1-4142-92f1-b8d91198a28c)
+
 Este projeto consiste em um código desenvolvido para o **Pé D’Água**, uma iniciativa que participou do evento **NEXT 2023** em parceria com a **IBM** e a **FIAP**. O objetivo é medir a quantidade de chuva em uma determinada região e enviar os dados para uma plataforma online.
 
 ## Projeto
@@ -15,7 +17,9 @@ Para executar este código, você vai precisar dos seguintes componentes:
 - 1 sensor magnético Reed Switch
 - 1 placa de desenvolvimento ESP32
 - 1 pluviômetro de báscula, que é um dispositivo que mede a precipitação pluviométrica por meio de um pêndulo que se inclina a cada volume de água acumulado.
-- ![image](http://www.c2o.pro.br/proj/pluviometro/figuras/animacao_pluviometro_bascula.gif).
+
+![image](http://www.c2o.pro.br/proj/pluviometro/figuras/animacao_pluviometro_bascula.gif).
+
 - 1 imã, que é usado para acionar o Reed Switch a cada movimento do pêndulo.
 
 ## Funcionalidade
