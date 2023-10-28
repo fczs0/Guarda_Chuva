@@ -14,7 +14,8 @@ Para executar este código, você vai precisar dos seguintes componentes:
 - 1 sensor de temperatura e umidade DHT11
 - 1 sensor magnético Reed Switch
 - 1 placa de desenvolvimento ESP32
-- 1 pluviômetro de báscula, que é um dispositivo que mede a precipitação pluviométrica por meio de um pêndulo que se inclina a cada volume de água acumulado. Veja a imagem abaixo: ![image](http://www.c2o.pro.br/proj/pluviometro/figuras/animacao_pluviometro_bascula.gif).
+- 1 pluviômetro de báscula, que é um dispositivo que mede a precipitação pluviométrica por meio de um pêndulo que se inclina a cada volume de água acumulado.
+- ![image](http://www.c2o.pro.br/proj/pluviometro/figuras/animacao_pluviometro_bascula.gif).
 - 1 imã, que é usado para acionar o Reed Switch a cada movimento do pêndulo.
 
 ## Funcionalidade
